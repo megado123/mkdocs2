@@ -1,0 +1,11 @@
+site_name: Megan Masanz
+nav:
+    - Overview: index.md
+    - Accomplishments: accomplishments.md
+    - Contact: contact.md
+theme: 
+  name: null
+  custom_dir: 'cinder'
+  logo: 'img/logo.ico'
+markdown_extensions:
+  - fontawesome_markdown
